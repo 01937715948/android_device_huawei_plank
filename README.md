@@ -1,1 +1,1 @@
-# android_device_huawei_plank
+honor x7a# android_device_huawei_plank
